@@ -6,3 +6,6 @@ print(t1)
 
 t3 = time.strftime('%Y%m%d%H%M%S', time.localtime())
 print(t3)
+
+t3 = time.strftime('%Y%m%d%H%M%S', time.localtime())
+print(t3)
